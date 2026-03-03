@@ -1,0 +1,22 @@
+{
+  "name": "packaging",
+  "version": "25.0",
+  "build": "py312h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "subdir": "linux-64",
+  "fn": "packaging-25.0-py312h06a4308_1.conda",
+  "md5": "814f295c8736258a4c8310804da81e86",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/packaging-25.0-py312h06a4308_1.conda",
+  "sha256": "be7611e65f2c8be67a40be70b992f660d485761e7513669ca1a2f9ac82968ed8",
+  "arch": "x86_64",
+  "platform": "linux",
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0 or BSD-2-Clause",
+  "license_family": "Apache",
+  "timestamp": 1761049098000,
+  "size": 190754
+}
